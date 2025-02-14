@@ -6,6 +6,7 @@
         "ttiposdedados.C": "cpp",
         "dadosVariafloat.C": "cpp",
         "tpdadosvarifloat.C": "cpp",
-        "conversaoimplicita.C": "cpp"
+        "conversaoimplicita.C": "cpp",
+        "conversaoexplicita.C": "cpp"
     }
 }
