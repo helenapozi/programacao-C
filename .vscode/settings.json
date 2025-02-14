@@ -2,6 +2,8 @@
     "files.associations": {
         "incrementoedecremento.C": "cpp",
         "operadores de atribuição.C": "cpp",
-        "operadormatematico.C": "cpp"
+        "operadormatematico.C": "cpp",
+        "ttiposdedados.C": "cpp",
+        "dadosVariafloat.C": "cpp"
     }
 }
