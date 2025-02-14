@@ -4,6 +4,7 @@
         "operadores de atribuição.C": "cpp",
         "operadormatematico.C": "cpp",
         "ttiposdedados.C": "cpp",
-        "dadosVariafloat.C": "cpp"
+        "dadosVariafloat.C": "cpp",
+        "tpdadosvarifloat.C": "cpp"
     }
 }
