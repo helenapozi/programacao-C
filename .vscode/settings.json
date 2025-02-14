@@ -5,6 +5,7 @@
         "operadormatematico.C": "cpp",
         "ttiposdedados.C": "cpp",
         "dadosVariafloat.C": "cpp",
-        "tpdadosvarifloat.C": "cpp"
+        "tpdadosvarifloat.C": "cpp",
+        "conversaoimplicita.C": "cpp"
     }
 }
