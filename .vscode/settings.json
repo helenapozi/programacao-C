@@ -8,6 +8,7 @@
         "tpdadosvarifloat.C": "cpp",
         "conversaoimplicita.C": "cpp",
         "conversaoexplicita.C": "cpp",
-        "aventureirocodar.C": "cpp"
+        "aventureirocodar.C": "cpp",
+        "ifelse.C": "cpp"
     }
 }
